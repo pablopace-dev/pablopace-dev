@@ -1,4 +1,4 @@
-![Tecnologías](Tecnologias.png)
+![Tecnologías](Tecs.jpg)
 
 # Hola, soy Pablo!
 
