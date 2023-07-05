@@ -1,3 +1,5 @@
+![Tecnologías](Tecnologias.png)
+
 # Hola, soy Pablo!
 
 ## ...sobre mí
@@ -14,5 +16,3 @@ Algunos enlaces para que me conozcas más:
 * Perfil de [LinkedIn](https://www.linkedin.com/in/pablopace-dev/).
 * Perfil de [CodeWars](https://www.codewars.com/users/pablo2637/).
 
----
-![Tecnologías](Tecnologias.png)
