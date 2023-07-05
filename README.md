@@ -13,3 +13,6 @@ Algunos enlaces para que me conozcas más:
 * Mi [portfolio](https://pablopace-portfolio.netlify.app/), aquí hay algunos de los proyectos en los que he trabajado.
 * Perfil de [LinkedIn](https://www.linkedin.com/in/pablopace-dev/).
 * Perfil de [CodeWars](https://www.codewars.com/users/pablo2637/).
+
+---
+![Tecnologías](Tecnologias.png)
