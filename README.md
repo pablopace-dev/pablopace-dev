@@ -10,6 +10,6 @@ Aquí encontrarán algunos de los proyectos que he realizado, hay un poco de tod
 ## Links:
 
 Algunos enlaces para que me conozcas más:
-* Mi [portfolio](https://pablopace-dev.github.io/SocialConnect_Back/), aquí hay algunos de los proyectos en los que he trabajado.
+* Mi [portfolio](https://pablopace-portfolio.netlify.app/), aquí hay algunos de los proyectos en los que he trabajado.
 * Perfil de [LinkedIn](https://www.linkedin.com/in/pablopace-dev/).
 * Perfil de [CodeWars](https://www.codewars.com/users/pablo2637/).
